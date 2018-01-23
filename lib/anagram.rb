@@ -7,6 +7,7 @@ class Anagram
   end
 
   def match(word)
+    letters = word.split(" ")
   end
 
 
